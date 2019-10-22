@@ -1,5 +1,5 @@
 {
-    "name": "Rss-Master",
+    "name": "RssMaster",
     "description": "RSS builder for Laravel 6",
     "keywords": ["rss", "laravel", "laravel6"],
     "license": "MIT",

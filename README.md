@@ -5,9 +5,9 @@ RSS builder for Laravel 6
 
 ## Installation
 
-Add `Rss-Master` to `composer.json`.
+Add `RssMaster` to `composer.json`.
 
-    "Rss-Master": "~1.0"
+    "RssMaster": "~1.0"
     
 Run `composer update` to pull down the latest version of RSS.
 
