@@ -7,7 +7,7 @@ RSS builder for Laravel 6
 
 ## Installation
 
-Add `thujohn/rss2` to `composer.json`.
+Add `update/thujohn/rss` to `composer.json`.
 
     "thujohn/rss": "~2.0"
     
