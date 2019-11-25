@@ -1,5 +1,5 @@
 {
-    "name": "update/thujohn/rss",
+    "name": "update/thujohn+/rss",
     "description": "RSS builder for Laravel 6",
     "keywords": ["rss", "laravel", "laravel6"],
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Thujohn\\Rss\\": "src/Thujohn/Rss/"
+            "Thujohn+\\Rss\\": "src/Thujohn+/Rss/"
         }
     }
 }
