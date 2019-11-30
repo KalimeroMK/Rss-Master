@@ -4,12 +4,12 @@ RSS builder for Laravel 6
 
 [![Build Status](https://travis-ci.org/thujohn/rss-l4.png?branch=master)](https://travis-ci.org/thujohn/rss-l4)
 
-
+composer require kalimeromk/update-thujohn-rss
 ## Installation
 
 Add `update/thujohn/rss` to `composer.json`.
 
-    "thujohn/rss": "~2.0"
+    "kalimeromk/update-htmldom": "dev-master"
     
 Run `composer update` to pull down the latest version of RSS.
 
